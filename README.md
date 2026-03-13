@@ -1,4 +1,4 @@
-##About Me
+## About Me
 I am a Software Engineer with a strong growth trajectory in building responsive, user-focused web applications and an expanding focus on AI-powered automation. I specialise in turning business and product requirements into clean, intuitive interfaces that perform reliably in production environments.
 
 ## 🌐 Socials:
